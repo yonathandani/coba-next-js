@@ -6,7 +6,7 @@ export default function AboutSection() {
     >
       <div className="mx-auto max-w-6xl">
         <p className="mb-5 text-[10px] font-bold uppercase tracking-[1.5px] text-[#71864a]">
-          01 / Tentang saya
+          01 / Tentang saya1
         </p>
         <div className="grid grid-cols-[.9fr_1.1fr] gap-16 max-[760px]:grid-cols-1 max-[760px]:gap-9">
           <h2 className="m-0 max-w-[440px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
