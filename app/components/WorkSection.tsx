@@ -1,19 +1,19 @@
 const projects = [
   {
-    category: "Strategi brand",
-    title: "Membangun cerita brand yang lebih kuat",
+    category: "UI · Frontend",
+    title: "Dashboard analytics",
     color: "bg-[#e6eadb]",
     mark: "01",
   },
   {
-    category: "Website",
-    title: "Pengalaman digital yang terasa sederhana",
+    category: "Web design · Frontend",
+    title: "Landing page produk",
     color: "bg-[#e9e3d8]",
     mark: "02",
   },
   {
-    category: "Produk digital",
-    title: "Membuat layanan lebih mudah dijangkau",
+    category: "React · UI",
+    title: "Task management app",
     color: "bg-[#dce7e1]",
     mark: "03",
   },
@@ -27,14 +27,14 @@ export default function WorkSection() {
     >
       <div className="mx-auto max-w-6xl">
         <p className="mb-5 text-[10px] font-bold uppercase tracking-[1.5px] text-[#71864a]">
-          03 / Karya
+          03 / Proyek pilihan
         </p>
         <div className="mb-12 flex items-end justify-between gap-8 max-[640px]:mb-8 max-[640px]:flex-col max-[640px]:items-start">
           <h2 className="m-0 max-w-[500px] font-manrope text-[clamp(38px,5vw,62px)] font-semibold leading-[1.05] tracking-[-3px] text-[#263b30]">
-            Karya yang berangkat dari kebutuhan.
+            Beberapa hal yang bisa saya bangun.
           </h2>
           <p className="mb-1 max-w-[330px] text-sm leading-[1.8] text-[#66716a]">
-            Beberapa gambaran tantangan yang bisa kita selesaikan bersama.
+            Contoh area proyek. Ganti dengan proyek nyata, detail, dan tautannya.
           </p>
         </div>
         <div className="grid grid-cols-3 gap-5 max-[760px]:grid-cols-1">

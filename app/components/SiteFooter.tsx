@@ -11,7 +11,7 @@ export default function SiteFooter() {
           <span className="text-white">John</span>
         </a>
         <p className="m-0 text-[10px] text-white/65">
-          © 2026 Dani John. Dibuat dengan kolaborasi.
+          © 2026 Dani John. Portofolio pribadi.
         </p>
         <a
           className="text-[10px] font-semibold text-white/80 transition-colors hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c4d29e]"
